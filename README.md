@@ -7,12 +7,12 @@ PURL for this repository: https://purl.org/d3fend-analysis
 _Acknowledgement:_ This work was done in collaboration with Accenture Labs, Israel.
 
 
-## Project Struture
+## Project Structure
 
 * [/original-d3fend](original-d3fend) contains the original versions of D3FEND that are the objects of our study.
 * [/d3fend-issues](d3fend-issues) contains files that show some of the D3FEND's ontological issues discovered by our analysis.
 * [/ontouml-d3fend](/ontouml-d3fend) should, in the future, contain files related to the redesigned conceptual model of D3FEND based on ROSE, represented in OntoUML language.
-* [/new-owl-d3fend](/new-owl-d3fend) should, in the future, contain files related to the [gUFO-based](https://nemo-ufes.github.io/gufo/) implementation of the redesigned coonceptual model of D3FEND.
+* [/new-owl-d3fend](/new-owl-d3fend) should, in the future, contain files related to the [gUFO-based](https://nemo-ufes.github.io/gufo/) implementation of the redesigned conceptual model of D3FEND.
 
 ## Reusing .vpp files
 
