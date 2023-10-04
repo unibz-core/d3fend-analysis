@@ -40,7 +40,7 @@ _Acknowledgement:_ This work was done in collaboration with Accenture Labs, Isra
 * **[Dan Klein](https://www.linkedin.com/in/~danklein/)** - Accenture Israel Cyber R&D Lab, Tel Aviv, Israel
 * **[Giancarlo Guizzardi](https://people.utwente.nl/g.guizzardi)** - Semantics, Cybersecurity & Services (SCS), University of Twente, Enschede, The Netherlands
 
-## References
+## Publications
 
 - The main publication has been submitted. It will appear here as soon as it is published.
 - Oliveira, Í., Sales, T.P., Baratella, R., Fumagalli, M., Guizzardi, G. (2022). An Ontology of Security from a Risk Treatment Perspective. In: Ralyté, J., Chakravarthy, S., Mohania, M., Jeusfeld, M.A., Karlapalem, K. (eds) Conceptual Modeling. ER 2022. Lecture Notes in Computer Science, vol 13607. Springer, Cham. https://doi.org/10.1007/978-3-031-17995-2_26
