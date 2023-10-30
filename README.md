@@ -25,9 +25,9 @@ _Acknowledgement:_ This work was done in collaboration with Accenture Labs, Isra
 * The [OntoUML Plugin](https://github.com/OntoUML/ontouml-vp-plugin) for Visual Paradigm
 * [Protégé ontology editor](https://protege.stanford.edu/)
 
-## Video presentation
+## Slide Presentation
 
-* To appear.
+* [Click here](https://github.com/unibz-core/d3fend-analysis/blob/main/FOIS_2023_Presentation.pdf).
 
 ## Authors
 
