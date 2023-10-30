@@ -42,7 +42,7 @@ _Acknowledgement:_ This work was done in collaboration with Accenture Labs, Isra
 
 ## Publications
 
-- The main publication has been submitted. It will appear here as soon as it is published.
+- The main publication has been submitted. It will appear here as soon as it is published. The preprint is available on [ResearchGate](https://www.researchgate.net/publication/370527042_Boosting_D3FEND_Ontological_analysis_and_recommendations).
 - Oliveira, Í., Sales, T.P., Baratella, R., Fumagalli, M., Guizzardi, G. (2022). An Ontology of Security from a Risk Treatment Perspective. In: Ralyté, J., Chakravarthy, S., Mohania, M., Jeusfeld, M.A., Karlapalem, K. (eds) Conceptual Modeling. ER 2022. Lecture Notes in Computer Science, vol 13607. Springer, Cham. https://doi.org/10.1007/978-3-031-17995-2_26
 
 ## Errata
