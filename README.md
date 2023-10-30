@@ -47,4 +47,6 @@ _Acknowledgement:_ This work was done in collaboration with Accenture Labs, Isra
 
 ## Errata
 
-To report [issues](https://github.com/unibz-core/d3fend-analysis/issues).
+For questions, commentaries, or reporting mistakes, feel free to use [Issues](https://github.com/unibz-core/d3fend-analysis/issues).
+
+- Nothing yet.
